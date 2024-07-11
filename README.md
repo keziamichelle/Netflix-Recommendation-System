@@ -10,9 +10,10 @@ The Netflix Recommendation System is a sophisticated machine learning applicatio
 
 -Interactive web interface for ease of use.
 
-*Technologies Used*
+*Technologies/Tools/Libraries Used*
 
 -Streamlit for creating an interactive and user-friendly web application.
 
 -Pandas for data manipulation and analysis.
 
+-NLTK and TF-IDF for text processing and analysis
