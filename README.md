@@ -14,8 +14,5 @@ The Netflix Recommendation System is a sophisticated machine learning applicatio
 
 -Streamlit for creating an interactive and user-friendly web application.
 
--Surprise for building and evaluating the collaborative filtering model.
-
 -Pandas for data manipulation and analysis.
 
--dotenv for environment variable management.
